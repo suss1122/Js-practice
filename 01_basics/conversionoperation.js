@@ -23,7 +23,7 @@ let str3=str1+str2;
 //console.log(str3);
 
 // console.log("1"+2)  it will give 12
-// console.log(2+"1")  it will gove 21
+// console.log(2+"1")  it will give 2-
 
 
 // console.log("1"+2+2);   122
